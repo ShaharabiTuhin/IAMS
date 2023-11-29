@@ -1,0 +1,10 @@
+Integrated Academic Management System (IAMS) is a prototype of Communication based academic system.
+It gives an idea of real world software or a system that makes easier communication and academic activities.
+Basically In universities, Teachers use social media platform for communicating , urgent notice distribution and delivering
+study materials to his course students.Multiple course teacher use multiple platform, it is quite hard to manage all. 
+
+IAMS is the finest solution of this problem, it can give you multiple courses based group,noticeboard,
+data transfering system in a single server which is much easier than the third party social platforms.
+
+IAMS is a good system to register teacher and students by the authority. IAMS is just a prototype of such 
+software and this idea can really help the teachers and students.
