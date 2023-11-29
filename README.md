@@ -1,2 +1,2 @@
 # IAMS
-We are student on International Islamic University Chittagong (IIUC), This is our 1st Semester Final Project in C Language.
+We are students at the International Islamic University Chittagong (IIUC). This is our Final project for the First Semester in the C language.
